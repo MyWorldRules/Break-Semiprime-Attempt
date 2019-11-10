@@ -15,6 +15,6 @@ print(solve(340282366920938464385711811117245792737))
 
 #print(solve(9))
 
-#Testting
+#Testing
 #print (sympy.isprime(5))
 #print(sympy.prevprime(340282366920938464385711811117245792737))
